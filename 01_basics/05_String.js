@@ -13,4 +13,4 @@ const newGame = gameName.substring(0, 4);//Srik
 console.log(newGame);
 
 const newGame1 = gameName.slice(3, 7);//kant
-console.log(newGame1);
+console.log(newGame1);//
